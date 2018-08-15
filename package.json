@@ -1,0 +1,27 @@
+{
+  "name": "marlinupgrade",
+  "version": "1.0.0",
+  "description": "I wana upgrade marlin via grunt",
+  "main": "index.js",
+  "dependencies": {
+    "grunt": "^1.0.3",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-git": "^1.0.9",
+    "npm": "^6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lebull/MarlinUpgrade.git"
+  },
+  "author": "lebull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lebull/MarlinUpgrade/issues"
+  },
+  "homepage": "https://github.com/lebull/MarlinUpgrade#readme"
+}
